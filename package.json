@@ -4,14 +4,14 @@
     "main": ".eslintrc.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JaanJah/prettier-config.git"
+        "url": "git+https://github.com/JaanJah/eslint-config.git"
     },
     "author": "Jaan Jahilo",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/JaanJah/prettier-config/issues"
+        "url": "https://github.com/JaanJah/eslint-config/issues"
     },
-    "homepage": "https://github.com/JaanJah/prettier-config#readme",
+    "homepage": "https://github.com/JaanJah/eslint-config#readme",
     "peerDependencies": {
         "@typescript-eslint/parser": "^5.21.0",
         "eslint": "^8.14.0",
