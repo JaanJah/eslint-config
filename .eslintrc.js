@@ -1,6 +1,3 @@
 module.exports = {
-    extends: [
-        "prettier"
-    ],
-    parser: "@typescript-eslint/parser"
-}
+    extends: ['./config.yml'].map(require.resolve),
+};
