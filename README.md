@@ -1,6 +1,8 @@
 # @jaanjah/eslint-config
 
-Typescript [ESLint](https://eslint.org/) config for [JaanJah](https://github.com/JaanJah/)
+Typescript [ESLint](https://eslint.org/) config for [JaanJah](https://github.com/JaanJah/).
+
+Requires Node 16.x or higher to use.
 
 ## Usage
 
