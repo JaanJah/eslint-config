@@ -2,6 +2,7 @@
     "name": "@jaanjah/eslint-config",
     "version": "2.0.0",
     "main": "eslint.config.mjs",
+    "types": "types.d.ts",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/JaanJah/eslint-config.git"
