@@ -13,7 +13,7 @@
     },
     "homepage": "https://github.com/JaanJah/eslint-config#readme",
     "engines": {
-        "node": ">=16"
+        "node": ">=20"
     },
     "peerDependencies": {
         "@typescript-eslint/parser": "^6.19.1",

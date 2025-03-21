@@ -2,7 +2,7 @@
 
 Typescript [ESLint](https://eslint.org/) config for [JaanJah](https://github.com/JaanJah/).
 
-Requires Node 16.x or higher to use.
+Requires Node 20.x or higher to use.
 
 ## Usage
 
