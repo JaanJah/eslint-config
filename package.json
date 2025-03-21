@@ -1,6 +1,6 @@
 {
     "name": "@jaanjah/eslint-config",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "main": "eslint.config.mjs",
     "types": "types.d.ts",
     "repository": {
