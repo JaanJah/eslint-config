@@ -1,7 +1,8 @@
 {
     "name": "@jaanjah/eslint-config",
-    "version": "1.2.1",
-    "main": ".eslintrc.js",
+    "version": "2.0.0",
+    "main": "eslint.config.mjs",
+    "types": "types.d.ts",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/JaanJah/eslint-config.git"
@@ -13,21 +14,19 @@
     },
     "homepage": "https://github.com/JaanJah/eslint-config#readme",
     "engines": {
-        "node": ">=16"
+        "node": ">=20"
     },
     "peerDependencies": {
-        "@typescript-eslint/parser": "^6.19.1",
-        "eslint": "^8.56.0",
-        "eslint-config-prettier": "^9.1.0",
-        "eslint-import-resolver-typescript": "^3.6.1",
-        "eslint-plugin-import": "^2.29.1"
+        "eslint": ">=9"
     },
     "devDependencies": {
-        "@typescript-eslint/parser": "^6.19.1",
-        "eslint": "^8.56.0",
-        "eslint-config-prettier": "^9.1.0",
-        "eslint-import-resolver-typescript": "^3.6.1",
-        "eslint-plugin-import": "^2.29.1",
-        "typescript": "^5.4.5"
+        "@eslint/js": "^9.22.0",
+        "eslint": "^9.22.0",
+        "eslint-config-prettier": "^10.1.1",
+        "eslint-import-resolver-typescript": "^4.2.2",
+        "eslint-plugin-import": "^2.31.0",
+        "eslint-plugin-prettier": "^5.2.3",
+        "typescript": "^5.8.2",
+        "typescript-eslint": "^8.27.0"
     }
 }
