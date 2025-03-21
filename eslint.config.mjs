@@ -11,18 +11,15 @@ export default tseslint.config({
     importPlugin.flatConfigs.typescript,
     eslintPluginPrettierRecommended,
   ],
-
   rules: {
     "import/order": [
       "error",
       {
         "newlines-between": "always",
-
         alphabetize: {
           order: "asc",
           caseInsensitive: true,
         },
-
         groups: [
           "builtin",
           "external",
@@ -36,7 +33,6 @@ export default tseslint.config({
       },
     ],
   },
-
   settings: {
     "import/resolver": {
       typescript: true,
