@@ -22,7 +22,7 @@
         "eslint-import-resolver-typescript": "^4.4.4",
         "eslint-plugin-import": "^2.32.0",
         "eslint-plugin-prettier": "^5.5.1",
-        "typescript-eslint": "^8.35.0"
+        "typescript-eslint": "^8.35.1"
     },
     "peerDependencies": {
         "eslint": ">=9"
